@@ -1,6 +1,6 @@
 Package: rollup
 Title: A Tidy Grouping Set Aggregation
-Version: 0.0.2
+Version: 0.1.0
 Authors@R: 
    person("Ju Young", "Ahn", , "juyoung.ahn@snu.ac.kr", role = c("aut", "cre"), 
           comment = c(ORCID = "0009-0008-4613-3438"))
@@ -13,9 +13,10 @@ LazyData: true
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 Imports: rlang, methods, utils, magrittr, sparklyr
+URL: https://juyoungahn.github.io/rollup/
 NeedsCompilation: no
-Packaged: 2024-08-21 11:55:14 UTC; dan-ahn
+Packaged: 2024-08-29 10:35:28 UTC; dan
 Author: Ju Young Ahn [aut, cre] (<https://orcid.org/0009-0008-4613-3438>)
 Maintainer: Ju Young Ahn <juyoung.ahn@snu.ac.kr>
 Repository: CRAN
-Date/Publication: 2024-08-26 17:00:02 UTC
+Date/Publication: 2024-08-29 11:10:04 UTC
